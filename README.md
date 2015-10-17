@@ -8,8 +8,8 @@ The code will prompt you to enter the path to a file which is "PHARMA_TRIALS_100
 link, so when you are prompted for the path, please provide the path to this file where ever you have downnloaded it.
 Then the code will prompt you to enter 1 to  parse the file, or enter 2 to query.
 At this stage enter 1 
-Now you will be shown this message -----  "the input file has been parsed and the index files have been generated
-if you want to query, please enter 2 
+Now you will be shown this message -----  "the input file has been parsed and the index files have been generated,
+if you want to query please enter 2 , 
 enter any other key to exit"
 
 At this stage the required "HEX" file will be generated in the same directory in the name "data.db"
